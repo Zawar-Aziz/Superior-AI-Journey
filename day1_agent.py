@@ -14,3 +14,5 @@ result = my_agent(current_sensor_data)
 
 # 3. We print the result to the screen~
 print(result)
+# End of Day 1
+
