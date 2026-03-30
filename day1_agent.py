@@ -12,5 +12,5 @@ current_sensor_data = "Movement"
 # We store the agent's decision in a variable called 'result'
 result = my_agent(current_sensor_data)
 
-# 3. We print the result to the screen
+# 3. We print the result to the screen~
 print(result)
